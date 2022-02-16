@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 3691784a-a649-a9d4-7bde-3e96c453997c
 ---
@@ -37,7 +40,7 @@ Review of thermodynamics
 2
 {{< tdclose >}}
 {{< tdopen >}}
-E, A, and S: macroscopic properties for microscopic probabilities {Pi}
+E, A, and S: macroscopic properties for microscopic probabilities {P{{< sub "i" >}}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/02_562ln08))
@@ -49,7 +52,7 @@ E, A, and S: macroscopic properties for microscopic probabilities {Pi}
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Canonical partition function: replace {Pi} by Q
+Canonical partition function: replace {P{{< sub "i" >}}} by Q
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/03_562ln08))
@@ -61,7 +64,7 @@ Canonical partition function: replace {Pi} by Q
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Microcanonical ensemble: replace {Pi} by Ω, Q vs. Ω
+Microcanonical ensemble: replace {P{{< sub "i" >}}} by Ω, Q vs. Ω
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/04_562ln08))
@@ -121,7 +124,7 @@ Boltzmann, Fermi-Dirac, and Bose-Einstein statistics
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Calculation of macroscopic properties from microscopic energy levels: qtrans
+Calculation of macroscopic properties from microscopic energy levels: q{{< sub "trans" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/09_562ln08))
@@ -135,7 +138,7 @@ Calculation of macroscopic properties from microscopic energy levels: qtrans
 {{< tdopen >}}
 
 
-Quantum vs. classical qtrans
+Quantum vs. classical q{{< sub "trans" >}}
 
 Equipartition
 
@@ -201,7 +204,7 @@ Supplement ([PDF]({{< baseurl >}}/resources/13s_562ln08))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Low and high-T limits for qrot and qvib
+Low and high-T limits for q{{< sub "rot" >}} and q{{< sub "vib" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/14_562ln08))
