@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: acdc22e3-3fb9-b5ff-282d-425270e24424
 resourcetype: Document
 title: Information for Hour Exam
 uid: 4a8acca7-3a4e-9db1-289a-c0e8684c14ac

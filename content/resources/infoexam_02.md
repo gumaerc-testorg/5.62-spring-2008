@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: acdc22e3-3fb9-b5ff-282d-425270e24424
 resourcetype: Document
 title: Information for Second Hour Exam
 uid: 760e5917-baee-44b5-cbff-190cd2da2bf5
