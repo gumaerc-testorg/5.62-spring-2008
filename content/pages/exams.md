@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the content of the four course exams
+  along with handouts containing information on the first two exams.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: acdc22e3-3fb9-b5ff-282d-425270e24424
 ---
@@ -30,7 +35,7 @@ EXAM INFORMATION
 Lectures 1-12
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/infoexam_01))
+({{% resource_link 4a8acca7-3a4e-9db1-289a-c0e8684c14ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Lectures 1-12
 Lectures 13-21
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/infoexam_02))
+({{% resource_link 760e5917-baee-44b5-cbff-190cd2da2bf5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

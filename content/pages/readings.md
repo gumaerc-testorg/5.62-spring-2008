@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course textbook, additional
+  readings, and the schedule of reading assignments.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 593a256a-bdc7-80d8-0839-1d769ebb320b
 ---
@@ -92,7 +97,7 @@ H: 1-6
 2
 {{< tdclose >}}
 {{< tdopen >}}
-E, A, and S: macroscopic properties for microscopic probabilities {Pi}
+E, A, and S: macroscopic properties for microscopic probabilities {P{{< sub "i" >}}}
 {{< tdclose >}}
 {{< tdopen >}}
 H: 6-20
@@ -104,7 +109,7 @@ H: 6-20
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Canonical partition function: replace {Pi} by Q
+Canonical partition function: replace {P{{< sub "i" >}}} by Q
 {{< tdclose >}}
 {{< tdopen >}}
 H: 12-13 and 18-20
@@ -116,7 +121,7 @@ H: 12-13 and 18-20
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Microcanonical ensemble: replace {Pi} by Ω, Q vs. Ω
+Microcanonical ensemble: replace {P{{< sub "i" >}}} by Ω, Q vs. Ω
 {{< tdclose >}}
 {{< tdopen >}}
 H: 26-30 and 33-38
@@ -184,7 +189,7 @@ H: 59-72
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Calculation of macroscopic properties from microscopic energy levels: qtrans
+Calculation of macroscopic properties from microscopic energy levels: q{{< sub "trans" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 H: 74-81
@@ -198,7 +203,7 @@ H: 74-81
 {{< tdopen >}}
 
 
-Quantum vs. classical qtrans
+Quantum vs. classical q{{< sub "trans" >}}
 
 Equipartition
 
@@ -278,7 +283,7 @@ Mac: 54-57
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Low and high-T limits for qrot and qvib
+Low and high-T limits for q{{< sub "rot" >}} and q{{< sub "vib" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
