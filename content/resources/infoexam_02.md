@@ -5,6 +5,7 @@ file: /courses/5-62-physical-chemistry-ii-spring-2008/760e5917baee44b5cbff190cd2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Information for Second Hour Exam
 uid: 760e5917-baee-44b5-cbff-190cd2da2bf5
 ---
 Guidelines and information on the second hour long exam of the course.
-
