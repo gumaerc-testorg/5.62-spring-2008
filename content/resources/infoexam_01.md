@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and information on the first hour long exam of the course.
-file: /courses/5-62-physical-chemistry-ii-spring-2008/4a8acca73a4e9db1289ac0e8684c14ac_infoexam_01.pdf
+file: /ol-ocw-studio-app/courses/5-62-physical-chemistry-ii-spring-2008/4a8acca73a4e9db1289ac0e8684c14ac_infoexam_01.pdf
 file_size: 213503
 file_type: application/pdf
 learning_resource_types:
